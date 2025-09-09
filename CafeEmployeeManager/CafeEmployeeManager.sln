@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CafeEmployeeManager.Server", "CafeEmployeeManager.Server\CafeEmployeeManager.Server.csproj", "{D5E524D6-5D85-431D-8A50-A25254D42C41}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "CafeEmployeeManager.Client", "CafeEmployeeManager.Client\CafeEmployeeManager.Client.esproj", "{01C02F3F-B844-1B1C-C522-1290795529EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5E524D6-5D85-431D-8A50-A25254D42C41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5E524D6-5D85-431D-8A50-A25254D42C41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5E524D6-5D85-431D-8A50-A25254D42C41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5E524D6-5D85-431D-8A50-A25254D42C41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01C02F3F-B844-1B1C-C522-1290795529EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01C02F3F-B844-1B1C-C522-1290795529EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01C02F3F-B844-1B1C-C522-1290795529EE}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{01C02F3F-B844-1B1C-C522-1290795529EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01C02F3F-B844-1B1C-C522-1290795529EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01C02F3F-B844-1B1C-C522-1290795529EE}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03A37CA5-D521-46DD-A0B6-B8EBEAF3B906}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,97 @@
+﻿import React, { useEffect, useState } from 'react';
+import { AgGridReact } from 'ag-grid-react';
+import { ModuleRegistry, AllCommunityModule } from 'ag-grid-community';
+import { Button, Typography } from '@mui/material';
+import { useNavigate } from 'react-router-dom';
+import { getCafes, deleteCafe } from '../../services/cafeService';
+import ConfirmDialog from '../../shared/ConfirmDialog';
+
+import 'ag-grid-community/styles/ag-grid.css';
+import 'ag-grid-community/styles/ag-theme-alpine.css';
+
+// Register all community features
+ModuleRegistry.registerModules([AllCommunityModule]);
+
+const CafeList = () => {
+    const [cafes, setCafes] = useState([]);
+    const [locationFilter, setLocationFilter] = useState('');
+    const [confirmOpen, setConfirmOpen] = useState(false);
+    const [selectedCafe, setSelectedCafe] = useState(null);
+    const navigate = useNavigate();
+
+    const fetchCafes = async () => {
+        try {
+            const data = await getCafes(locationFilter);
+            console.log('Fetched cafes:', data);
+            setCafes(data);
+        } catch (error) {
+            console.error('Error fetching cafes:', error);
+        }
+    };
+
+    const handleDelete = async () => {
+        await deleteCafe(selectedCafe.cafeId);
+        setConfirmOpen(false);
+        fetchCafes();
+    };
+
+    const columns = [
+        {
+            headerName: 'Logo',
+            field: 'logo',
+            cellRenderer: params =>
+                params.value ? <img src={params.value} alt="logo" width={50} /> : null
+        },
+        { headerName: 'Name', field: 'name' },
+        { headerName: 'Description', field: 'description' },
+        { headerName: 'Employees', field: 'employees' },
+        { headerName: 'Location', field: 'location' },
+        {
+            headerName: 'Actions',
+            field: 'actions',
+            cellRenderer: params => (
+                <>
+                    <Button onClick={() => navigate(`/cafes/edit/${params.data.cafeId}`)}>Edit</Button>
+                    <Button
+                        color="secondary"
+                        onClick={() => {
+                            setSelectedCafe(params.data);
+                            setConfirmOpen(true);
+                        }}
+                    >
+                        Delete
+                    </Button>
+                </>
+            )
+        }
+    ];
+
+    useEffect(() => {
+        fetchCafes();
+    }, [locationFilter]);
+
+    return (
+        <div>
+            <Typography variant="h4">Cafe List</Typography>
+            <Button variant="contained" onClick={() => navigate('/cafes/create')}>
+                Add New Cafe
+            </Button>
+            <div className="ag-theme-alpine" style={{ height: 700, width: '100%', marginTop: 16 }}>
+                <AgGridReact
+                    rowData={cafes}
+                    columnDefs={columns}
+                    rowSelection="single"
+                    theme="legacy"
+                />
+            </div>
+            <ConfirmDialog
+                open={confirmOpen}
+                onClose={() => setConfirmOpen(false)}
+                onConfirm={handleDelete}
+                message={`Are you sure you want to delete cafe "${selectedCafe?.name}"?`}
+            />
+        </div>
+    );
+};
+
+export default CafeList;

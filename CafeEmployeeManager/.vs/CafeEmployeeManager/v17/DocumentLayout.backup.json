@@ -1,0 +1,1076 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E524D6-5D85-431D-8A50-A25254D42C41}|CafeEmployeeManager.Server\\CafeEmployeeManager.Server.csproj|c:\\projects\\react\\cafeemployeemanager\\cafeemployeemanager\\cafeemployeemanager.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E524D6-5D85-431D-8A50-A25254D42C41}|CafeEmployeeManager.Server\\CafeEmployeeManager.Server.csproj|solutionrelative:cafeemployeemanager.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E524D6-5D85-431D-8A50-A25254D42C41}|CafeEmployeeManager.Server\\CafeEmployeeManager.Server.csproj|c:\\projects\\react\\cafeemployeemanager\\cafeemployeemanager\\cafeemployeemanager.server\\api\\helpers\\customvalidationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E524D6-5D85-431D-8A50-A25254D42C41}|CafeEmployeeManager.Server\\CafeEmployeeManager.Server.csproj|solutionrelative:cafeemployeemanager.server\\api\\helpers\\customvalidationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E524D6-5D85-431D-8A50-A25254D42C41}|CafeEmployeeManager.Server\\CafeEmployeeManager.Server.csproj|c:\\projects\\react\\cafeemployeemanager\\cafeemployeemanager\\cafeemployeemanager.server\\cafeemployeemanager.server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{D5E524D6-5D85-431D-8A50-A25254D42C41}|CafeEmployeeManager.Server\\CafeEmployeeManager.Server.csproj|solutionrelative:cafeemployeemanager.server\\cafeemployeemanager.server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E524D6-5D85-431D-8A50-A25254D42C41}|CafeEmployeeManager.Server\\CafeEmployeeManager.Server.csproj|c:\\projects\\react\\cafeemployeemanager\\cafeemployeemanager\\cafeemployeemanager.server\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D5E524D6-5D85-431D-8A50-A25254D42C41}|CafeEmployeeManager.Server\\CafeEmployeeManager.Server.csproj|solutionrelative:cafeemployeemanager.server\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E524D6-5D85-431D-8A50-A25254D42C41}|CafeEmployeeManager.Server\\CafeEmployeeManager.Server.csproj|c:\\projects\\react\\cafeemployeemanager\\cafeemployeemanager\\cafeemployeemanager.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D5E524D6-5D85-431D-8A50-A25254D42C41}|CafeEmployeeManager.Server\\CafeEmployeeManager.Server.csproj|solutionrelative:cafeemployeemanager.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E524D6-5D85-431D-8A50-A25254D42C41}|CafeEmployeeManager.Server\\CafeEmployeeManager.Server.csproj|c:\\projects\\react\\cafeemployeemanager\\cafeemployeemanager\\cafeemployeemanager.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D5E524D6-5D85-431D-8A50-A25254D42C41}|CafeEmployeeManager.Server\\CafeEmployeeManager.Server.csproj|solutionrelative:cafeemployeemanager.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C02F3F-B844-1B1C-C522-1290795529EE}|CafeEmployeeManager.Client\\CafeEmployeeManager.Client.esproj|c:\\projects\\react\\cafeemployeemanager\\cafeemployeemanager\\cafeemployeemanager.client\\src\\components\\cafes\\cafeform.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{01C02F3F-B844-1B1C-C522-1290795529EE}|CafeEmployeeManager.Client\\CafeEmployeeManager.Client.esproj|solutionrelative:cafeemployeemanager.client\\src\\components\\cafes\\cafeform.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C02F3F-B844-1B1C-C522-1290795529EE}|CafeEmployeeManager.Client\\CafeEmployeeManager.Client.esproj|c:\\projects\\react\\cafeemployeemanager\\cafeemployeemanager\\cafeemployeemanager.client\\src\\components\\employees\\employeeform.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{01C02F3F-B844-1B1C-C522-1290795529EE}|CafeEmployeeManager.Client\\CafeEmployeeManager.Client.esproj|solutionrelative:cafeemployeemanager.client\\src\\components\\employees\\employeeform.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E524D6-5D85-431D-8A50-A25254D42C41}|CafeEmployeeManager.Server\\CafeEmployeeManager.Server.csproj|c:\\projects\\react\\cafeemployeemanager\\cafeemployeemanager\\cafeemployeemanager.server\\application\\commands\\cafe\\createcafecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E524D6-5D85-431D-8A50-A25254D42C41}|CafeEmployeeManager.Server\\CafeEmployeeManager.Server.csproj|solutionrelative:cafeemployeemanager.server\\application\\commands\\cafe\\createcafecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E524D6-5D85-431D-8A50-A25254D42C41}|CafeEmployeeManager.Server\\CafeEmployeeManager.Server.csproj|c:\\projects\\react\\cafeemployeemanager\\cafeemployeemanager\\cafeemployeemanager.server\\api\\controller\\cafecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E524D6-5D85-431D-8A50-A25254D42C41}|CafeEmployeeManager.Server\\CafeEmployeeManager.Server.csproj|solutionrelative:cafeemployeemanager.server\\api\\controller\\cafecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C02F3F-B844-1B1C-C522-1290795529EE}|CafeEmployeeManager.Client\\CafeEmployeeManager.Client.esproj|c:\\projects\\react\\cafeemployeemanager\\cafeemployeemanager\\cafeemployeemanager.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{01C02F3F-B844-1B1C-C522-1290795529EE}|CafeEmployeeManager.Client\\CafeEmployeeManager.Client.esproj|solutionrelative:cafeemployeemanager.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E524D6-5D85-431D-8A50-A25254D42C41}|CafeEmployeeManager.Server\\CafeEmployeeManager.Server.csproj|c:\\projects\\react\\cafeemployeemanager\\cafeemployeemanager\\cafeemployeemanager.server\\domain\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E524D6-5D85-431D-8A50-A25254D42C41}|CafeEmployeeManager.Server\\CafeEmployeeManager.Server.csproj|solutionrelative:cafeemployeemanager.server\\domain\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E524D6-5D85-431D-8A50-A25254D42C41}|CafeEmployeeManager.Server\\CafeEmployeeManager.Server.csproj|c:\\projects\\react\\cafeemployeemanager\\cafeemployeemanager\\cafeemployeemanager.server\\domain\\entities\\cafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E524D6-5D85-431D-8A50-A25254D42C41}|CafeEmployeeManager.Server\\CafeEmployeeManager.Server.csproj|solutionrelative:cafeemployeemanager.server\\domain\\entities\\cafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E524D6-5D85-431D-8A50-A25254D42C41}|CafeEmployeeManager.Server\\CafeEmployeeManager.Server.csproj|c:\\projects\\react\\cafeemployeemanager\\cafeemployeemanager\\cafeemployeemanager.server\\domain\\entities\\employeecafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E524D6-5D85-431D-8A50-A25254D42C41}|CafeEmployeeManager.Server\\CafeEmployeeManager.Server.csproj|solutionrelative:cafeemployeemanager.server\\domain\\entities\\employeecafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C02F3F-B844-1B1C-C522-1290795529EE}|CafeEmployeeManager.Client\\CafeEmployeeManager.Client.esproj|c:\\projects\\react\\cafeemployeemanager\\cafeemployeemanager\\cafeemployeemanager.client\\src\\components\\cafes\\cafelist.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{01C02F3F-B844-1B1C-C522-1290795529EE}|CafeEmployeeManager.Client\\CafeEmployeeManager.Client.esproj|solutionrelative:cafeemployeemanager.client\\src\\components\\cafes\\cafelist.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E524D6-5D85-431D-8A50-A25254D42C41}|CafeEmployeeManager.Server\\CafeEmployeeManager.Server.csproj|c:\\projects\\react\\cafeemployeemanager\\cafeemployeemanager\\cafeemployeemanager.server\\application\\queries\\employee\\getemployeebyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E524D6-5D85-431D-8A50-A25254D42C41}|CafeEmployeeManager.Server\\CafeEmployeeManager.Server.csproj|solutionrelative:cafeemployeemanager.server\\application\\queries\\employee\\getemployeebyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E524D6-5D85-431D-8A50-A25254D42C41}|CafeEmployeeManager.Server\\CafeEmployeeManager.Server.csproj|c:\\projects\\react\\cafeemployeemanager\\cafeemployeemanager\\cafeemployeemanager.server\\infrastructure\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E524D6-5D85-431D-8A50-A25254D42C41}|CafeEmployeeManager.Server\\CafeEmployeeManager.Server.csproj|solutionrelative:cafeemployeemanager.server\\infrastructure\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E524D6-5D85-431D-8A50-A25254D42C41}|CafeEmployeeManager.Server\\CafeEmployeeManager.Server.csproj|c:\\projects\\react\\cafeemployeemanager\\cafeemployeemanager\\cafeemployeemanager.server\\api\\controller\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E524D6-5D85-431D-8A50-A25254D42C41}|CafeEmployeeManager.Server\\CafeEmployeeManager.Server.csproj|solutionrelative:cafeemployeemanager.server\\api\\controller\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E524D6-5D85-431D-8A50-A25254D42C41}|CafeEmployeeManager.Server\\CafeEmployeeManager.Server.csproj|c:\\projects\\react\\cafeemployeemanager\\cafeemployeemanager\\cafeemployeemanager.server\\application\\dto\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E524D6-5D85-431D-8A50-A25254D42C41}|CafeEmployeeManager.Server\\CafeEmployeeManager.Server.csproj|solutionrelative:cafeemployeemanager.server\\application\\dto\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C02F3F-B844-1B1C-C522-1290795529EE}|CafeEmployeeManager.Client\\CafeEmployeeManager.Client.esproj|c:\\projects\\react\\cafeemployeemanager\\cafeemployeemanager\\cafeemployeemanager.client\\src\\services\\employeeservice.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{01C02F3F-B844-1B1C-C522-1290795529EE}|CafeEmployeeManager.Client\\CafeEmployeeManager.Client.esproj|solutionrelative:cafeemployeemanager.client\\src\\services\\employeeservice.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C02F3F-B844-1B1C-C522-1290795529EE}|CafeEmployeeManager.Client\\CafeEmployeeManager.Client.esproj|c:\\projects\\react\\cafeemployeemanager\\cafeemployeemanager\\cafeemployeemanager.client\\src\\components\\employees\\employeelist.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{01C02F3F-B844-1B1C-C522-1290795529EE}|CafeEmployeeManager.Client\\CafeEmployeeManager.Client.esproj|solutionrelative:cafeemployeemanager.client\\src\\components\\employees\\employeelist.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C02F3F-B844-1B1C-C522-1290795529EE}|CafeEmployeeManager.Client\\CafeEmployeeManager.Client.esproj|c:\\projects\\react\\cafeemployeemanager\\cafeemployeemanager\\cafeemployeemanager.client\\src\\utils\\gridmodules.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{01C02F3F-B844-1B1C-C522-1290795529EE}|CafeEmployeeManager.Client\\CafeEmployeeManager.Client.esproj|solutionrelative:cafeemployeemanager.client\\src\\utils\\gridmodules.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C02F3F-B844-1B1C-C522-1290795529EE}|CafeEmployeeManager.Client\\CafeEmployeeManager.Client.esproj|c:\\projects\\react\\cafeemployeemanager\\cafeemployeemanager\\cafeemployeemanager.client\\src\\api.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{01C02F3F-B844-1B1C-C522-1290795529EE}|CafeEmployeeManager.Client\\CafeEmployeeManager.Client.esproj|solutionrelative:cafeemployeemanager.client\\src\\api.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C02F3F-B844-1B1C-C522-1290795529EE}|CafeEmployeeManager.Client\\CafeEmployeeManager.Client.esproj|c:\\projects\\react\\cafeemployeemanager\\cafeemployeemanager\\cafeemployeemanager.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{01C02F3F-B844-1B1C-C522-1290795529EE}|CafeEmployeeManager.Client\\CafeEmployeeManager.Client.esproj|solutionrelative:cafeemployeemanager.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C02F3F-B844-1B1C-C522-1290795529EE}|CafeEmployeeManager.Client\\CafeEmployeeManager.Client.esproj|c:\\projects\\react\\cafeemployeemanager\\cafeemployeemanager\\cafeemployeemanager.client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{01C02F3F-B844-1B1C-C522-1290795529EE}|CafeEmployeeManager.Client\\CafeEmployeeManager.Client.esproj|solutionrelative:cafeemployeemanager.client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C02F3F-B844-1B1C-C522-1290795529EE}|CafeEmployeeManager.Client\\CafeEmployeeManager.Client.esproj|c:\\projects\\react\\cafeemployeemanager\\cafeemployeemanager\\cafeemployeemanager.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01C02F3F-B844-1B1C-C522-1290795529EE}|CafeEmployeeManager.Client\\CafeEmployeeManager.Client.esproj|solutionrelative:cafeemployeemanager.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C02F3F-B844-1B1C-C522-1290795529EE}|CafeEmployeeManager.Client\\CafeEmployeeManager.Client.esproj|c:\\projects\\react\\cafeemployeemanager\\cafeemployeemanager\\cafeemployeemanager.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{01C02F3F-B844-1B1C-C522-1290795529EE}|CafeEmployeeManager.Client\\CafeEmployeeManager.Client.esproj|solutionrelative:cafeemployeemanager.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C02F3F-B844-1B1C-C522-1290795529EE}|CafeEmployeeManager.Client\\CafeEmployeeManager.Client.esproj|c:\\projects\\react\\cafeemployeemanager\\cafeemployeemanager\\cafeemployeemanager.client\\src\\services\\cafeservice.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{01C02F3F-B844-1B1C-C522-1290795529EE}|CafeEmployeeManager.Client\\CafeEmployeeManager.Client.esproj|solutionrelative:cafeemployeemanager.client\\src\\services\\cafeservice.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E524D6-5D85-431D-8A50-A25254D42C41}|CafeEmployeeManager.Server\\CafeEmployeeManager.Server.csproj|c:\\projects\\react\\cafeemployeemanager\\cafeemployeemanager\\cafeemployeemanager.server\\application\\commands\\employee\\createemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E524D6-5D85-431D-8A50-A25254D42C41}|CafeEmployeeManager.Server\\CafeEmployeeManager.Server.csproj|solutionrelative:cafeemployeemanager.server\\application\\commands\\employee\\createemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E524D6-5D85-431D-8A50-A25254D42C41}|CafeEmployeeManager.Server\\CafeEmployeeManager.Server.csproj|c:\\projects\\react\\cafeemployeemanager\\cafeemployeemanager\\cafeemployeemanager.server\\application\\commands\\employee\\updateemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E524D6-5D85-431D-8A50-A25254D42C41}|CafeEmployeeManager.Server\\CafeEmployeeManager.Server.csproj|solutionrelative:cafeemployeemanager.server\\application\\commands\\employee\\updateemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E524D6-5D85-431D-8A50-A25254D42C41}|CafeEmployeeManager.Server\\CafeEmployeeManager.Server.csproj|c:\\projects\\react\\cafeemployeemanager\\cafeemployeemanager\\cafeemployeemanager.server\\application\\dto\\updateemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E524D6-5D85-431D-8A50-A25254D42C41}|CafeEmployeeManager.Server\\CafeEmployeeManager.Server.csproj|solutionrelative:cafeemployeemanager.server\\application\\dto\\updateemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CafeEmployeeDb/True/SqlTable/dbo.Cafes.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E524D6-5D85-431D-8A50-A25254D42C41}|CafeEmployeeManager.Server\\CafeEmployeeManager.Server.csproj|c:\\projects\\react\\cafeemployeemanager\\cafeemployeemanager\\cafeemployeemanager.server\\application\\queries\\cafe\\getallcafesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E524D6-5D85-431D-8A50-A25254D42C41}|CafeEmployeeManager.Server\\CafeEmployeeManager.Server.csproj|solutionrelative:cafeemployeemanager.server\\application\\queries\\cafe\\getallcafesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E524D6-5D85-431D-8A50-A25254D42C41}|CafeEmployeeManager.Server\\CafeEmployeeManager.Server.csproj|c:\\projects\\react\\cafeemployeemanager\\cafeemployeemanager\\cafeemployeemanager.server\\application\\commands\\cafe\\updatecafecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E524D6-5D85-431D-8A50-A25254D42C41}|CafeEmployeeManager.Server\\CafeEmployeeManager.Server.csproj|solutionrelative:cafeemployeemanager.server\\application\\commands\\cafe\\updatecafecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E524D6-5D85-431D-8A50-A25254D42C41}|CafeEmployeeManager.Server\\CafeEmployeeManager.Server.csproj|c:\\projects\\react\\cafeemployeemanager\\cafeemployeemanager\\cafeemployeemanager.server\\application\\dto\\cafedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E524D6-5D85-431D-8A50-A25254D42C41}|CafeEmployeeManager.Server\\CafeEmployeeManager.Server.csproj|solutionrelative:cafeemployeemanager.server\\application\\dto\\cafedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E524D6-5D85-431D-8A50-A25254D42C41}|CafeEmployeeManager.Server\\CafeEmployeeManager.Server.csproj|c:\\projects\\react\\cafeemployeemanager\\cafeemployeemanager\\cafeemployeemanager.server\\application\\queries\\cafe\\getcafebyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E524D6-5D85-431D-8A50-A25254D42C41}|CafeEmployeeManager.Server\\CafeEmployeeManager.Server.csproj|solutionrelative:cafeemployeemanager.server\\application\\queries\\cafe\\getcafebyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E524D6-5D85-431D-8A50-A25254D42C41}|CafeEmployeeManager.Server\\CafeEmployeeManager.Server.csproj|c:\\projects\\react\\cafeemployeemanager\\cafeemployeemanager\\cafeemployeemanager.server\\application\\dto\\updatecafedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E524D6-5D85-431D-8A50-A25254D42C41}|CafeEmployeeManager.Server\\CafeEmployeeManager.Server.csproj|solutionrelative:cafeemployeemanager.server\\application\\dto\\updatecafedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E524D6-5D85-431D-8A50-A25254D42C41}|CafeEmployeeManager.Server\\CafeEmployeeManager.Server.csproj|c:\\projects\\react\\cafeemployeemanager\\cafeemployeemanager\\cafeemployeemanager.server\\application\\commands\\employee\\deleteemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E524D6-5D85-431D-8A50-A25254D42C41}|CafeEmployeeManager.Server\\CafeEmployeeManager.Server.csproj|solutionrelative:cafeemployeemanager.server\\application\\commands\\employee\\deleteemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E524D6-5D85-431D-8A50-A25254D42C41}|CafeEmployeeManager.Server\\CafeEmployeeManager.Server.csproj|c:\\projects\\react\\cafeemployeemanager\\cafeemployeemanager\\cafeemployeemanager.server\\cafeemployeemanager.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D5E524D6-5D85-431D-8A50-A25254D42C41}|CafeEmployeeManager.Server\\CafeEmployeeManager.Server.csproj|solutionrelative:cafeemployeemanager.server\\cafeemployeemanager.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E524D6-5D85-431D-8A50-A25254D42C41}|CafeEmployeeManager.Server\\CafeEmployeeManager.Server.csproj|c:\\projects\\react\\cafeemployeemanager\\cafeemployeemanager\\cafeemployeemanager.server\\application\\commands\\cafe\\deletecafecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E524D6-5D85-431D-8A50-A25254D42C41}|CafeEmployeeManager.Server\\CafeEmployeeManager.Server.csproj|solutionrelative:cafeemployeemanager.server\\application\\commands\\cafe\\deletecafecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E524D6-5D85-431D-8A50-A25254D42C41}|CafeEmployeeManager.Server\\CafeEmployeeManager.Server.csproj|c:\\projects\\react\\cafeemployeemanager\\cafeemployeemanager\\cafeemployeemanager.server\\application\\queries\\employee\\getallemployeesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E524D6-5D85-431D-8A50-A25254D42C41}|CafeEmployeeManager.Server\\CafeEmployeeManager.Server.csproj|solutionrelative:cafeemployeemanager.server\\application\\queries\\employee\\getallemployeesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E524D6-5D85-431D-8A50-A25254D42C41}|CafeEmployeeManager.Server\\CafeEmployeeManager.Server.csproj|c:\\projects\\react\\cafeemployeemanager\\cafeemployeemanager\\cafeemployeemanager.server\\api\\helpers\\globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E524D6-5D85-431D-8A50-A25254D42C41}|CafeEmployeeManager.Server\\CafeEmployeeManager.Server.csproj|solutionrelative:cafeemployeemanager.server\\api\\helpers\\globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C02F3F-B844-1B1C-C522-1290795529EE}|CafeEmployeeManager.Client\\CafeEmployeeManager.Client.esproj|c:\\projects\\react\\cafeemployeemanager\\cafeemployeemanager\\cafeemployeemanager.client\\src\\components\\templatepage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{01C02F3F-B844-1B1C-C522-1290795529EE}|CafeEmployeeManager.Client\\CafeEmployeeManager.Client.esproj|solutionrelative:cafeemployeemanager.client\\src\\components\\templatepage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C02F3F-B844-1B1C-C522-1290795529EE}|CafeEmployeeManager.Client\\CafeEmployeeManager.Client.esproj|c:\\projects\\react\\cafeemployeemanager\\cafeemployeemanager\\cafeemployeemanager.client\\src\\components\\navbar.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{01C02F3F-B844-1B1C-C522-1290795529EE}|CafeEmployeeManager.Client\\CafeEmployeeManager.Client.esproj|solutionrelative:cafeemployeemanager.client\\src\\components\\navbar.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CafeEmployeeDb/True/SqlTable/dbo.Employees.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C02F3F-B844-1B1C-C522-1290795529EE}|CafeEmployeeManager.Client\\CafeEmployeeManager.Client.esproj|c:\\projects\\react\\cafeemployeemanager\\cafeemployeemanager\\cafeemployeemanager.client\\styles\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{01C02F3F-B844-1B1C-C522-1290795529EE}|CafeEmployeeManager.Client\\CafeEmployeeManager.Client.esproj|solutionrelative:cafeemployeemanager.client\\styles\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C02F3F-B844-1B1C-C522-1290795529EE}|CafeEmployeeManager.Client\\CafeEmployeeManager.Client.esproj|c:\\projects\\react\\cafeemployeemanager\\cafeemployeemanager\\cafeemployeemanager.client\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{01C02F3F-B844-1B1C-C522-1290795529EE}|CafeEmployeeManager.Client\\CafeEmployeeManager.Client.esproj|solutionrelative:cafeemployeemanager.client\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C02F3F-B844-1B1C-C522-1290795529EE}|CafeEmployeeManager.Client\\CafeEmployeeManager.Client.esproj|c:\\projects\\react\\cafeemployeemanager\\cafeemployeemanager\\cafeemployeemanager.client\\.vscode\\launch.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{01C02F3F-B844-1B1C-C522-1290795529EE}|CafeEmployeeManager.Client\\CafeEmployeeManager.Client.esproj|solutionrelative:cafeemployeemanager.client\\.vscode\\launch.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E524D6-5D85-431D-8A50-A25254D42C41}|CafeEmployeeManager.Server\\CafeEmployeeManager.Server.csproj|c:\\projects\\react\\cafeemployeemanager\\cafeemployeemanager\\cafeemployeemanager.server\\infrastructure\\repositories\\caferepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E524D6-5D85-431D-8A50-A25254D42C41}|CafeEmployeeManager.Server\\CafeEmployeeManager.Server.csproj|solutionrelative:cafeemployeemanager.server\\infrastructure\\repositories\\caferepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E524D6-5D85-431D-8A50-A25254D42C41}|CafeEmployeeManager.Server\\CafeEmployeeManager.Server.csproj|c:\\projects\\react\\cafeemployeemanager\\cafeemployeemanager\\cafeemployeemanager.server\\application\\interfaces\\icaferepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E524D6-5D85-431D-8A50-A25254D42C41}|CafeEmployeeManager.Server\\CafeEmployeeManager.Server.csproj|solutionrelative:cafeemployeemanager.server\\application\\interfaces\\icaferepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E524D6-5D85-431D-8A50-A25254D42C41}|CafeEmployeeManager.Server\\CafeEmployeeManager.Server.csproj|c:\\projects\\react\\cafeemployeemanager\\cafeemployeemanager\\cafeemployeemanager.server\\infrastructure\\persistence\\cafeemployeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E524D6-5D85-431D-8A50-A25254D42C41}|CafeEmployeeManager.Server\\CafeEmployeeManager.Server.csproj|solutionrelative:cafeemployeemanager.server\\infrastructure\\persistence\\cafeemployeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CafeEmployeeDb/True/SqlTable/dbo.EmployeeCafe.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages\\microsoft.visualstudio.javascript.sdk\\1.0.2752196\\Sdk\\Sdk.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\cafeemployeemanager.client\\src\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cafeemployeemanager.client\\src\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\cafeemployeemanager.client\\src\\api\\api.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cafeemployeemanager.client\\src\\api\\api.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\cafeemployeemanager.client\\src\\components\\ConfirmDialog.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cafeemployeemanager.client\\src\\components\\ConfirmDialog.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\cafeemployeemanager.client\\src\\components\\EmployeePage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cafeemployeemanager.client\\src\\components\\EmployeePage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\cafeemployeemanager.client\\src\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cafeemployeemanager.client\\src\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\cafeemployeemanager.client\\src\\components\\CafePage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cafeemployeemanager.client\\src\\components\\CafePage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\cafeemployeemanager.client\\src\\routes.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cafeemployeemanager.client\\src\\routes.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\cafeemployeemanager.client\\checkPaths.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cafeemployeemanager.client\\checkPaths.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\cafeemployeemanager.client\\src\\styles\\global.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cafeemployeemanager.client\\src\\styles\\global.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C02F3F-B844-1B1C-C522-1290795529EE}|CafeEmployeeManager.Client\\CafeEmployeeManager.Client.esproj|c:\\projects\\react\\cafeemployeemanager\\cafeemployeemanager\\cafeemployeemanager.client\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{01C02F3F-B844-1B1C-C522-1290795529EE}|CafeEmployeeManager.Client\\CafeEmployeeManager.Client.esproj|solutionrelative:cafeemployeemanager.client\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C02F3F-B844-1B1C-C522-1290795529EE}|CafeEmployeeManager.Client\\CafeEmployeeManager.Client.esproj|c:\\projects\\react\\cafeemployeemanager\\cafeemployeemanager\\cafeemployeemanager.client\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{01C02F3F-B844-1B1C-C522-1290795529EE}|CafeEmployeeManager.Client\\CafeEmployeeManager.Client.esproj|solutionrelative:cafeemployeemanager.client\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C02F3F-B844-1B1C-C522-1290795529EE}|CafeEmployeeManager.Client\\CafeEmployeeManager.Client.esproj|c:\\projects\\react\\cafeemployeemanager\\cafeemployeemanager\\cafeemployeemanager.client\\changelog.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{01C02F3F-B844-1B1C-C522-1290795529EE}|CafeEmployeeManager.Client\\CafeEmployeeManager.Client.esproj|solutionrelative:cafeemployeemanager.client\\changelog.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C02F3F-B844-1B1C-C522-1290795529EE}|CafeEmployeeManager.Client\\CafeEmployeeManager.Client.esproj|c:\\projects\\react\\cafeemployeemanager\\cafeemployeemanager\\cafeemployeemanager.client\\src\\shared\\textinput.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{01C02F3F-B844-1B1C-C522-1290795529EE}|CafeEmployeeManager.Client\\CafeEmployeeManager.Client.esproj|solutionrelative:cafeemployeemanager.client\\src\\shared\\textinput.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C02F3F-B844-1B1C-C522-1290795529EE}|CafeEmployeeManager.Client\\CafeEmployeeManager.Client.esproj|c:\\projects\\react\\cafeemployeemanager\\cafeemployeemanager\\cafeemployeemanager.client\\src\\shared\\confirmdialog.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{01C02F3F-B844-1B1C-C522-1290795529EE}|CafeEmployeeManager.Client\\CafeEmployeeManager.Client.esproj|solutionrelative:cafeemployeemanager.client\\src\\shared\\confirmdialog.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CafeEmployeeManager.Server.http",
+              "DocumentMoniker": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Server\\CafeEmployeeManager.Server.http",
+              "RelativeDocumentMoniker": "CafeEmployeeManager.Server\\CafeEmployeeManager.Server.http",
+              "ToolTip": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Server\\CafeEmployeeManager.Server.http",
+              "RelativeToolTip": "CafeEmployeeManager.Server\\CafeEmployeeManager.Server.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-09-09T05:03:48.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Server\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CafeEmployeeManager.Server\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Server\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CafeEmployeeManager.Server\\Properties\\launchSettings.json",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-05T06:01:24.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeForm.jsx",
+              "DocumentMoniker": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Client\\src\\components\\employees\\EmployeeForm.jsx",
+              "RelativeDocumentMoniker": "CafeEmployeeManager.Client\\src\\components\\employees\\EmployeeForm.jsx",
+              "ToolTip": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Client\\src\\components\\employees\\EmployeeForm.jsx",
+              "RelativeToolTip": "CafeEmployeeManager.Client\\src\\components\\employees\\EmployeeForm.jsx",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAAEoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-09-07T09:40:44.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomValidationResponse.cs",
+              "DocumentMoniker": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Server\\API\\Helpers\\CustomValidationResponse.cs",
+              "RelativeDocumentMoniker": "CafeEmployeeManager.Server\\API\\Helpers\\CustomValidationResponse.cs",
+              "ToolTip": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Server\\API\\Helpers\\CustomValidationResponse.cs",
+              "RelativeToolTip": "CafeEmployeeManager.Server\\API\\Helpers\\CustomValidationResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T06:20:06.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Server\\Program.cs",
+              "RelativeDocumentMoniker": "CafeEmployeeManager.Server\\Program.cs",
+              "ToolTip": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Server\\Program.cs",
+              "RelativeToolTip": "CafeEmployeeManager.Server\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T02:03:59.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Server\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "CafeEmployeeManager.Server\\appsettings.Development.json",
+              "ToolTip": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Server\\appsettings.Development.json",
+              "RelativeToolTip": "CafeEmployeeManager.Server\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-05T05:41:07.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "CafeEmployeeManager.Server\\appsettings.json",
+              "ToolTip": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Server\\appsettings.json",
+              "RelativeToolTip": "CafeEmployeeManager.Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-04T02:19:29.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CafeForm.jsx",
+              "DocumentMoniker": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Client\\src\\components\\cafes\\CafeForm.jsx",
+              "RelativeDocumentMoniker": "CafeEmployeeManager.Client\\src\\components\\cafes\\CafeForm.jsx",
+              "ToolTip": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Client\\src\\components\\cafes\\CafeForm.jsx",
+              "RelativeToolTip": "CafeEmployeeManager.Client\\src\\components\\cafes\\CafeForm.jsx",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAqwFoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-09-07T09:39:07.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CafeController.cs",
+              "DocumentMoniker": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Server\\API\\Controller\\CafeController.cs",
+              "RelativeDocumentMoniker": "CafeEmployeeManager.Server\\API\\Controller\\CafeController.cs",
+              "ToolTip": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Server\\API\\Controller\\CafeController.cs",
+              "RelativeToolTip": "CafeEmployeeManager.Server\\API\\Controller\\CafeController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowC0AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T04:29:54.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateCafeCommand.cs",
+              "DocumentMoniker": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Server\\Application\\Commands\\Cafe\\CreateCafeCommand.cs",
+              "RelativeDocumentMoniker": "CafeEmployeeManager.Server\\Application\\Commands\\Cafe\\CreateCafeCommand.cs",
+              "ToolTip": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Server\\Application\\Commands\\Cafe\\CreateCafeCommand.cs",
+              "RelativeToolTip": "CafeEmployeeManager.Server\\Application\\Commands\\Cafe\\CreateCafeCommand.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwAUAAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T04:33:44.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Client\\package.json",
+              "RelativeDocumentMoniker": "CafeEmployeeManager.Client\\package.json",
+              "ToolTip": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Client\\package.json",
+              "RelativeToolTip": "CafeEmployeeManager.Client\\package.json",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowBQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-04T09:04:09.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CafeList.jsx",
+              "DocumentMoniker": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Client\\src\\components\\cafes\\CafeList.jsx",
+              "RelativeDocumentMoniker": "CafeEmployeeManager.Client\\src\\components\\cafes\\CafeList.jsx",
+              "ToolTip": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Client\\src\\components\\cafes\\CafeList.jsx",
+              "RelativeToolTip": "CafeEmployeeManager.Client\\src\\components\\cafes\\CafeList.jsx",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAawCcAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-09-07T07:01:51.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Cafe.cs",
+              "DocumentMoniker": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Server\\Domain\\Entities\\Cafe.cs",
+              "RelativeDocumentMoniker": "CafeEmployeeManager.Server\\Domain\\Entities\\Cafe.cs",
+              "ToolTip": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Server\\Domain\\Entities\\Cafe.cs",
+              "RelativeToolTip": "CafeEmployeeManager.Server\\Domain\\Entities\\Cafe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T04:17:34.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmployeeCafe.cs",
+              "DocumentMoniker": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Server\\Domain\\Entities\\EmployeeCafe.cs",
+              "RelativeDocumentMoniker": "CafeEmployeeManager.Server\\Domain\\Entities\\EmployeeCafe.cs",
+              "ToolTip": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Server\\Domain\\Entities\\EmployeeCafe.cs",
+              "RelativeToolTip": "CafeEmployeeManager.Server\\Domain\\Entities\\EmployeeCafe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T04:18:40.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Server\\Domain\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "CafeEmployeeManager.Server\\Domain\\Entities\\Employee.cs",
+              "ToolTip": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Server\\Domain\\Entities\\Employee.cs",
+              "RelativeToolTip": "CafeEmployeeManager.Server\\Domain\\Entities\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAtwA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T04:18:28.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GetEmployeeByIdQuery.cs",
+              "DocumentMoniker": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Server\\Application\\Queries\\Employee\\GetEmployeeByIdQuery.cs",
+              "RelativeDocumentMoniker": "CafeEmployeeManager.Server\\Application\\Queries\\Employee\\GetEmployeeByIdQuery.cs",
+              "ToolTip": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Server\\Application\\Queries\\Employee\\GetEmployeeByIdQuery.cs",
+              "RelativeToolTip": "CafeEmployeeManager.Server\\Application\\Queries\\Employee\\GetEmployeeByIdQuery.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAEwBsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T04:35:05.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Server\\Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "CafeEmployeeManager.Server\\Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Server\\Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "CafeEmployeeManager.Server\\Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAADwvyMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T04:25:09.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Server\\API\\Controller\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "CafeEmployeeManager.Server\\API\\Controller\\EmployeeController.cs",
+              "ToolTip": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Server\\API\\Controller\\EmployeeController.cs",
+              "RelativeToolTip": "CafeEmployeeManager.Server\\API\\Controller\\EmployeeController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T04:30:45.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EmployeeDto.cs",
+              "DocumentMoniker": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Server\\Application\\Dto\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "CafeEmployeeManager.Server\\Application\\Dto\\EmployeeDto.cs",
+              "ToolTip": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Server\\Application\\Dto\\EmployeeDto.cs",
+              "RelativeToolTip": "CafeEmployeeManager.Server\\Application\\Dto\\EmployeeDto.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T04:40:44.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "employeeService.js",
+              "DocumentMoniker": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Client\\src\\services\\employeeService.js",
+              "RelativeDocumentMoniker": "CafeEmployeeManager.Client\\src\\services\\employeeService.js",
+              "ToolTip": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Client\\src\\services\\employeeService.js",
+              "RelativeToolTip": "CafeEmployeeManager.Client\\src\\services\\employeeService.js",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAawAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-09-07T09:34:17.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EmployeeList.jsx",
+              "DocumentMoniker": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Client\\src\\components\\employees\\EmployeeList.jsx",
+              "RelativeDocumentMoniker": "CafeEmployeeManager.Client\\src\\components\\employees\\EmployeeList.jsx",
+              "ToolTip": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Client\\src\\components\\employees\\EmployeeList.jsx",
+              "RelativeToolTip": "CafeEmployeeManager.Client\\src\\components\\employees\\EmployeeList.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-09-07T09:40:14.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "gridModules.js",
+              "DocumentMoniker": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Client\\src\\utils\\gridModules.js",
+              "RelativeDocumentMoniker": "CafeEmployeeManager.Client\\src\\utils\\gridModules.js",
+              "ToolTip": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Client\\src\\utils\\gridModules.js",
+              "RelativeToolTip": "CafeEmployeeManager.Client\\src\\utils\\gridModules.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-09-07T09:35:33.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "api.js",
+              "DocumentMoniker": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Client\\src\\api.js",
+              "RelativeDocumentMoniker": "CafeEmployeeManager.Client\\src\\api.js",
+              "ToolTip": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Client\\src\\api.js",
+              "RelativeToolTip": "CafeEmployeeManager.Client\\src\\api.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-09-07T03:16:54.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Client\\src\\App.jsx",
+              "RelativeDocumentMoniker": "CafeEmployeeManager.Client\\src\\App.jsx",
+              "ToolTip": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Client\\src\\App.jsx",
+              "RelativeToolTip": "CafeEmployeeManager.Client\\src\\App.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-09-06T08:31:35.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "index.css",
+              "DocumentMoniker": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Client\\src\\index.css",
+              "RelativeDocumentMoniker": "CafeEmployeeManager.Client\\src\\index.css",
+              "ToolTip": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Client\\src\\index.css",
+              "RelativeToolTip": "CafeEmployeeManager.Client\\src\\index.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-09-08T17:06:38.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "main.jsx",
+              "DocumentMoniker": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Client\\src\\main.jsx",
+              "RelativeDocumentMoniker": "CafeEmployeeManager.Client\\src\\main.jsx",
+              "ToolTip": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Client\\src\\main.jsx",
+              "RelativeToolTip": "CafeEmployeeManager.Client\\src\\main.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-09-06T08:28:07.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Client\\index.html",
+              "RelativeDocumentMoniker": "CafeEmployeeManager.Client\\index.html",
+              "ToolTip": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Client\\index.html",
+              "RelativeToolTip": "CafeEmployeeManager.Client\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-09-06T14:53:41.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "cafeService.js",
+              "DocumentMoniker": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Client\\src\\services\\cafeService.js",
+              "RelativeDocumentMoniker": "CafeEmployeeManager.Client\\src\\services\\cafeService.js",
+              "ToolTip": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Client\\src\\services\\cafeService.js",
+              "RelativeToolTip": "CafeEmployeeManager.Client\\src\\services\\cafeService.js",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwBAAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-09-07T07:02:53.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CreateEmployeeCommand.cs",
+              "DocumentMoniker": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Server\\Application\\Commands\\Employee\\CreateEmployeeCommand.cs",
+              "RelativeDocumentMoniker": "CafeEmployeeManager.Server\\Application\\Commands\\Employee\\CreateEmployeeCommand.cs",
+              "ToolTip": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Server\\Application\\Commands\\Employee\\CreateEmployeeCommand.cs",
+              "RelativeToolTip": "CafeEmployeeManager.Server\\Application\\Commands\\Employee\\CreateEmployeeCommand.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T04:35:26.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UpdateEmployeeCommand.cs",
+              "DocumentMoniker": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Server\\Application\\Commands\\Employee\\UpdateEmployeeCommand.cs",
+              "RelativeDocumentMoniker": "CafeEmployeeManager.Server\\Application\\Commands\\Employee\\UpdateEmployeeCommand.cs",
+              "ToolTip": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Server\\Application\\Commands\\Employee\\UpdateEmployeeCommand.cs",
+              "RelativeToolTip": "CafeEmployeeManager.Server\\Application\\Commands\\Employee\\UpdateEmployeeCommand.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAMwAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T04:35:53.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UpdateEmployeeDto.cs",
+              "DocumentMoniker": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Server\\Application\\Dto\\UpdateEmployeeDto.cs",
+              "RelativeDocumentMoniker": "CafeEmployeeManager.Server\\Application\\Dto\\UpdateEmployeeDto.cs",
+              "ToolTip": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Server\\Application\\Dto\\UpdateEmployeeDto.cs",
+              "RelativeToolTip": "CafeEmployeeManager.Server\\Application\\Dto\\UpdateEmployeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T14:18:05.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "dbo.Cafes.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CafeEmployeeDb/True/SqlTable/dbo.Cafes.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CafeEmployeeDb/True/SqlTable/dbo.Cafes.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-09-08T15:03:00.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "GetAllCafesQuery.cs",
+              "DocumentMoniker": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Server\\Application\\Queries\\Cafe\\GetAllCafesQuery.cs",
+              "RelativeDocumentMoniker": "CafeEmployeeManager.Server\\Application\\Queries\\Cafe\\GetAllCafesQuery.cs",
+              "ToolTip": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Server\\Application\\Queries\\Cafe\\GetAllCafesQuery.cs",
+              "RelativeToolTip": "CafeEmployeeManager.Server\\Application\\Queries\\Cafe\\GetAllCafesQuery.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwBoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T04:28:24.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UpdateCafeCommand.cs",
+              "DocumentMoniker": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Server\\Application\\Commands\\Cafe\\UpdateCafeCommand.cs",
+              "RelativeDocumentMoniker": "CafeEmployeeManager.Server\\Application\\Commands\\Cafe\\UpdateCafeCommand.cs",
+              "ToolTip": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Server\\Application\\Commands\\Cafe\\UpdateCafeCommand.cs",
+              "RelativeToolTip": "CafeEmployeeManager.Server\\Application\\Commands\\Cafe\\UpdateCafeCommand.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAwwCQAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T04:34:02.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CafeDto.cs",
+              "DocumentMoniker": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Server\\Application\\Dto\\CafeDto.cs",
+              "RelativeDocumentMoniker": "CafeEmployeeManager.Server\\Application\\Dto\\CafeDto.cs",
+              "ToolTip": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Server\\Application\\Dto\\CafeDto.cs",
+              "RelativeToolTip": "CafeEmployeeManager.Server\\Application\\Dto\\CafeDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T04:40:14.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "GetCafeByIdQuery.cs",
+              "DocumentMoniker": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Server\\Application\\Queries\\Cafe\\GetCafeByIdQuery.cs",
+              "RelativeDocumentMoniker": "CafeEmployeeManager.Server\\Application\\Queries\\Cafe\\GetCafeByIdQuery.cs",
+              "ToolTip": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Server\\Application\\Queries\\Cafe\\GetCafeByIdQuery.cs",
+              "RelativeToolTip": "CafeEmployeeManager.Server\\Application\\Queries\\Cafe\\GetCafeByIdQuery.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T04:33:21.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "UpdateCafeDto.cs",
+              "DocumentMoniker": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Server\\Application\\Dto\\UpdateCafeDto.cs",
+              "RelativeDocumentMoniker": "CafeEmployeeManager.Server\\Application\\Dto\\UpdateCafeDto.cs",
+              "ToolTip": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Server\\Application\\Dto\\UpdateCafeDto.cs",
+              "RelativeToolTip": "CafeEmployeeManager.Server\\Application\\Dto\\UpdateCafeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T14:17:42.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "DeleteEmployeeCommand.cs",
+              "DocumentMoniker": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Server\\Application\\Commands\\Employee\\DeleteEmployeeCommand.cs",
+              "RelativeDocumentMoniker": "CafeEmployeeManager.Server\\Application\\Commands\\Employee\\DeleteEmployeeCommand.cs",
+              "ToolTip": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Server\\Application\\Commands\\Employee\\DeleteEmployeeCommand.cs",
+              "RelativeToolTip": "CafeEmployeeManager.Server\\Application\\Commands\\Employee\\DeleteEmployeeCommand.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAIA7wBIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T04:36:14.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CafeEmployeeManager.Server.csproj",
+              "DocumentMoniker": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Server\\CafeEmployeeManager.Server.csproj",
+              "RelativeDocumentMoniker": "CafeEmployeeManager.Server\\CafeEmployeeManager.Server.csproj",
+              "ToolTip": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Server\\CafeEmployeeManager.Server.csproj",
+              "RelativeToolTip": "CafeEmployeeManager.Server\\CafeEmployeeManager.Server.csproj",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-05T03:21:20.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "DeleteCafeCommand.cs",
+              "DocumentMoniker": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Server\\Application\\Commands\\Cafe\\DeleteCafeCommand.cs",
+              "RelativeDocumentMoniker": "CafeEmployeeManager.Server\\Application\\Commands\\Cafe\\DeleteCafeCommand.cs",
+              "ToolTip": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Server\\Application\\Commands\\Cafe\\DeleteCafeCommand.cs",
+              "RelativeToolTip": "CafeEmployeeManager.Server\\Application\\Commands\\Cafe\\DeleteCafeCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T04:34:23.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "GetAllEmployeesQuery.cs",
+              "DocumentMoniker": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Server\\Application\\Queries\\Employee\\GetAllEmployeesQuery.cs",
+              "RelativeDocumentMoniker": "CafeEmployeeManager.Server\\Application\\Queries\\Employee\\GetAllEmployeesQuery.cs",
+              "ToolTip": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Server\\Application\\Queries\\Employee\\GetAllEmployeesQuery.cs",
+              "RelativeToolTip": "CafeEmployeeManager.Server\\Application\\Queries\\Employee\\GetAllEmployeesQuery.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowBAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T04:34:44.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "GlobalExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Server\\API\\Helpers\\GlobalExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "CafeEmployeeManager.Server\\API\\Helpers\\GlobalExceptionMiddleware.cs",
+              "ToolTip": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Server\\API\\Helpers\\GlobalExceptionMiddleware.cs",
+              "RelativeToolTip": "CafeEmployeeManager.Server\\API\\Helpers\\GlobalExceptionMiddleware.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T14:36:05.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "NavBar.jsx",
+              "DocumentMoniker": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Client\\src\\components\\NavBar.jsx",
+              "RelativeDocumentMoniker": "CafeEmployeeManager.Client\\src\\components\\NavBar.jsx",
+              "ToolTip": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Client\\src\\components\\NavBar.jsx",
+              "RelativeToolTip": "CafeEmployeeManager.Client\\src\\components\\NavBar.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-09-07T13:31:56.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "TemplatePage.jsx",
+              "DocumentMoniker": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Client\\src\\components\\TemplatePage.jsx",
+              "RelativeDocumentMoniker": "CafeEmployeeManager.Client\\src\\components\\TemplatePage.jsx",
+              "ToolTip": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Client\\src\\components\\TemplatePage.jsx",
+              "RelativeToolTip": "CafeEmployeeManager.Client\\src\\components\\TemplatePage.jsx",
+              "ViewState": "AgIAABgAAAAAAAAAAAAqwCUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-09-07T13:20:14.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "dbo.Employees.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CafeEmployeeDb/True/SqlTable/dbo.Employees.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CafeEmployeeDb/True/SqlTable/dbo.Employees.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-09-07T10:37:42.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Client\\styles\\app.css",
+              "RelativeDocumentMoniker": "CafeEmployeeManager.Client\\styles\\app.css",
+              "ToolTip": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Client\\styles\\app.css",
+              "RelativeToolTip": "CafeEmployeeManager.Client\\styles\\app.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-09-07T09:30:29.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "TextInput.jsx",
+              "DocumentMoniker": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Client\\src\\shared\\TextInput.jsx",
+              "RelativeDocumentMoniker": "CafeEmployeeManager.Client\\src\\shared\\TextInput.jsx",
+              "ToolTip": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Client\\src\\shared\\TextInput.jsx",
+              "RelativeToolTip": "CafeEmployeeManager.Client\\src\\shared\\TextInput.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-09-07T09:36:55.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "ConfirmDialog.jsx",
+              "DocumentMoniker": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Client\\src\\shared\\ConfirmDialog.jsx",
+              "RelativeDocumentMoniker": "CafeEmployeeManager.Client\\src\\shared\\ConfirmDialog.jsx",
+              "ToolTip": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Client\\src\\shared\\ConfirmDialog.jsx",
+              "RelativeToolTip": "CafeEmployeeManager.Client\\src\\shared\\ConfirmDialog.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-09-07T07:03:48.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "launch.json",
+              "DocumentMoniker": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Client\\.vscode\\launch.json",
+              "RelativeDocumentMoniker": "CafeEmployeeManager.Client\\.vscode\\launch.json",
+              "ToolTip": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Client\\.vscode\\launch.json",
+              "RelativeToolTip": "CafeEmployeeManager.Client\\.vscode\\launch.json",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-04T07:43:19.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "CafeRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Server\\Infrastructure\\Repositories\\CafeRepository.cs",
+              "RelativeDocumentMoniker": "CafeEmployeeManager.Server\\Infrastructure\\Repositories\\CafeRepository.cs",
+              "ToolTip": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Server\\Infrastructure\\Repositories\\CafeRepository.cs",
+              "RelativeToolTip": "CafeEmployeeManager.Server\\Infrastructure\\Repositories\\CafeRepository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAQwCsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T04:24:18.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "vite.config.js",
+              "DocumentMoniker": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Client\\vite.config.js",
+              "RelativeDocumentMoniker": "CafeEmployeeManager.Client\\vite.config.js",
+              "ToolTip": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Client\\vite.config.js",
+              "RelativeToolTip": "CafeEmployeeManager.Client\\vite.config.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-09-06T14:52:44.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "index.js",
+              "DocumentMoniker": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Client\\src\\index.js",
+              "RelativeDocumentMoniker": "CafeEmployeeManager.Client\\src\\index.js",
+              "ToolTip": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Client\\src\\index.js",
+              "RelativeToolTip": "CafeEmployeeManager.Client\\src\\index.js",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-09-04T08:01:17.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Client\\README.md",
+              "RelativeDocumentMoniker": "CafeEmployeeManager.Client\\README.md",
+              "ToolTip": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Client\\README.md",
+              "RelativeToolTip": "CafeEmployeeManager.Client\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-09-04T07:49:58.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ICafeRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Server\\Application\\Interfaces\\ICafeRepository.cs",
+              "RelativeDocumentMoniker": "CafeEmployeeManager.Server\\Application\\Interfaces\\ICafeRepository.cs",
+              "ToolTip": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Server\\Application\\Interfaces\\ICafeRepository.cs",
+              "RelativeToolTip": "CafeEmployeeManager.Server\\Application\\Interfaces\\ICafeRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T04:21:31.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "CafeEmployeeDbContext.cs",
+              "DocumentMoniker": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Server\\Infrastructure\\Persistence\\CafeEmployeeDbContext.cs",
+              "RelativeDocumentMoniker": "CafeEmployeeManager.Server\\Infrastructure\\Persistence\\CafeEmployeeDbContext.cs",
+              "ToolTip": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Server\\Infrastructure\\Persistence\\CafeEmployeeDbContext.cs",
+              "RelativeToolTip": "CafeEmployeeManager.Server\\Infrastructure\\Persistence\\CafeEmployeeDbContext.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwAgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T04:20:52.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "dbo.EmployeeCafe.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CafeEmployeeDb/True/SqlTable/dbo.EmployeeCafe.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CafeEmployeeDb/True/SqlTable/dbo.EmployeeCafe.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-09-05T08:13:42.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "api.js",
+              "DocumentMoniker": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Client\\src\\api\\api.js",
+              "RelativeDocumentMoniker": "CafeEmployeeManager.Client\\src\\api\\api.js",
+              "ToolTip": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Client\\src\\api\\api.js",
+              "RelativeToolTip": "CafeEmployeeManager.Client\\src\\api\\api.js",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-09-04T07:51:57.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ConfirmDialog.jsx",
+              "DocumentMoniker": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Client\\src\\components\\ConfirmDialog.jsx",
+              "RelativeDocumentMoniker": "CafeEmployeeManager.Client\\src\\components\\ConfirmDialog.jsx",
+              "ToolTip": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Client\\src\\components\\ConfirmDialog.jsx",
+              "RelativeToolTip": "CafeEmployeeManager.Client\\src\\components\\ConfirmDialog.jsx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-09-04T07:58:27.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "EmployeePage.jsx",
+              "DocumentMoniker": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Client\\src\\components\\EmployeePage.jsx",
+              "RelativeDocumentMoniker": "CafeEmployeeManager.Client\\src\\components\\EmployeePage.jsx",
+              "ToolTip": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Client\\src\\components\\EmployeePage.jsx",
+              "RelativeToolTip": "CafeEmployeeManager.Client\\src\\components\\EmployeePage.jsx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-09-04T07:57:04.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "vite.config.js",
+              "DocumentMoniker": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Client\\src\\vite.config.js",
+              "RelativeDocumentMoniker": "CafeEmployeeManager.Client\\src\\vite.config.js",
+              "ToolTip": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Client\\src\\vite.config.js",
+              "RelativeToolTip": "CafeEmployeeManager.Client\\src\\vite.config.js",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-09-04T08:51:33.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "CafePage.jsx",
+              "DocumentMoniker": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Client\\src\\components\\CafePage.jsx",
+              "RelativeDocumentMoniker": "CafeEmployeeManager.Client\\src\\components\\CafePage.jsx",
+              "ToolTip": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Client\\src\\components\\CafePage.jsx",
+              "RelativeToolTip": "CafeEmployeeManager.Client\\src\\components\\CafePage.jsx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-09-04T07:56:06.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "routes.jsx",
+              "DocumentMoniker": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Client\\src\\routes.jsx",
+              "RelativeDocumentMoniker": "CafeEmployeeManager.Client\\src\\routes.jsx",
+              "ToolTip": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Client\\src\\routes.jsx",
+              "RelativeToolTip": "CafeEmployeeManager.Client\\src\\routes.jsx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-09-04T07:55:50.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "checkPaths.js",
+              "DocumentMoniker": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Client\\checkPaths.js",
+              "RelativeDocumentMoniker": "CafeEmployeeManager.Client\\checkPaths.js",
+              "ToolTip": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Client\\checkPaths.js",
+              "RelativeToolTip": "CafeEmployeeManager.Client\\checkPaths.js",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-09-04T09:16:28.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "global.css",
+              "DocumentMoniker": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Client\\src\\styles\\global.css",
+              "RelativeDocumentMoniker": "CafeEmployeeManager.Client\\src\\styles\\global.css",
+              "ToolTip": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Client\\src\\styles\\global.css",
+              "RelativeToolTip": "CafeEmployeeManager.Client\\src\\styles\\global.css",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-09-04T07:54:00.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Sdk.targets",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages\\microsoft.visualstudio.javascript.sdk\\1.0.2752196\\Sdk\\Sdk.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages\\microsoft.visualstudio.javascript.sdk\\1.0.2752196\\Sdk\\Sdk.targets",
+              "ToolTip": "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages\\microsoft.visualstudio.javascript.sdk\\1.0.2752196\\Sdk\\Sdk.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages\\microsoft.visualstudio.javascript.sdk\\1.0.2752196\\Sdk\\Sdk.targets",
+              "ViewState": "AgIAAAgBAAAAAAAAAAAvwA8BAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-09-04T08:59:11.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Client\\.gitignore",
+              "RelativeDocumentMoniker": "CafeEmployeeManager.Client\\.gitignore",
+              "ToolTip": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Client\\.gitignore",
+              "RelativeToolTip": "CafeEmployeeManager.Client\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-09-04T07:49:47.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "CHANGELOG.md",
+              "DocumentMoniker": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Client\\CHANGELOG.md",
+              "RelativeDocumentMoniker": "CafeEmployeeManager.Client\\CHANGELOG.md",
+              "ToolTip": "C:\\Projects\\React\\CafeEmployeeManager\\CafeEmployeeManager\\CafeEmployeeManager.Client\\CHANGELOG.md",
+              "RelativeToolTip": "CafeEmployeeManager.Client\\CHANGELOG.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-09-04T07:54:40.405Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

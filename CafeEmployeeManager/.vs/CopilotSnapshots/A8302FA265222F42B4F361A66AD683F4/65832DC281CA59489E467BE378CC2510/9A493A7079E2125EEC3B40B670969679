@@ -1,0 +1,29 @@
+﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Filters;
+using System.Text.Json;
+
+namespace CafeEmployeeManager.Server.API.Helpers
+{
+    public class JsonExceptionFilter : IExceptionFilter
+    {
+        public void OnException(ExceptionContext context)
+        {
+            if (context.Exception is JsonException jsonEx)
+            {
+                string fieldName = !string.IsNullOrEmpty(jsonEx.Path) ? jsonEx.Path : "unknown";
+                if (fieldName.StartsWith("$.")) fieldName = fieldName.Substring(2);
+
+                context.Result = new BadRequestObjectResult(new
+                {
+                    message = "Validation failed for one or more fields.",
+                    errors = new Dictionary<string, string[]>
+                {
+                    { fieldName, new[] { "Field has invalid data format." } }
+                }
+                });
+
+                context.ExceptionHandled = true;
+            }
+        }
+    }
+    }
